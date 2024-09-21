@@ -35,12 +35,3 @@ Discover new movies at the click of a button! The **Random Movie Generator** fet
 ## 🖼️ Screenshots
 
 <img width="517<img width="573" alt="Screenshot 2024-09-21 at 6 52 05 PM" src="https://github.com/user-attachments/assets/1162b972-ddcc-4964-8b01-734e628b02b4">
-" alt="Screenshot 2024-09-21 at 6 52 30 PM" src="https://github.com/user-attachments/assets/6c700d49-7fc0-4a2f-b6ef-119c59b4e79c">
-
-
-
-## 🤖 How It Works
-
-1. Click the **"Find Random Movie"** button.
-2. The app fetches a random movie from the list of IMDb IDs using the OMDB API.
-3. Movie details, including title, year, genre, plot, IMDb rating, and director, are displayed on the screen.
