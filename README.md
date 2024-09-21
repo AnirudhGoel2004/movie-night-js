@@ -33,5 +33,6 @@ Discover new movies at the click of a button! The **Random Movie Generator** fet
 3. Open the `index.html` file in your web browser to start using the Random Movie Generator.
 
 ## 🖼️ Screenshots
+<img width="573" alt="Screenshot 2024-09-21 at 6 52 05 PM" src="https://github.com/user-attachments/assets/374e8553-6b68-4a14-8534-d25ac7cfff4a">
 
-<"Screenshot 2024-09-21 at 6 52 05 PM" src="https://github.com/user-attachments/assets/1162b972-ddcc-4964-8b01-734e628b02b4">
+
