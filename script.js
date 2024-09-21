@@ -28,7 +28,6 @@ const randomMovieIDs = [
   "tt4154756",
   "tt0361748",
   "tt0137523",
-  // Add 150+ more IMDb IDs here
   "tt0120689",
   "tt0082971",
   "tt1375666",
