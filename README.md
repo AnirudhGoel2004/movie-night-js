@@ -34,4 +34,4 @@ Discover new movies at the click of a button! The **Random Movie Generator** fet
 
 ## 🖼️ Screenshots
 
-<img width="517<img width="573" alt="Screenshot 2024-09-21 at 6 52 05 PM" src="https://github.com/user-attachments/assets/1162b972-ddcc-4964-8b01-734e628b02b4">
+<"Screenshot 2024-09-21 at 6 52 05 PM" src="https://github.com/user-attachments/assets/1162b972-ddcc-4964-8b01-734e628b02b4">
