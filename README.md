@@ -1,6 +1,6 @@
 # 🎬 Random Movie Generator 🍿
 
-Discover new movies at the click of a button! The **Random Movie Generator** fetches random movies from a list of 200+ IMDb IDs and provides detailed information about the selected movie. This app is built using HTML, CSS, and JavaScript with the OMDB API.
+Discover new movies at the click of a button! The **Random Movie Generator** fetches random movies from IMDb IDs and provides detailed information about the selected movie. This app is built using HTML, CSS, and JavaScript with the OMDB API.
 
 ## 🚀 Features
 
